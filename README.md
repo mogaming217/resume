@@ -1,17 +1,17 @@
 # Resume
 
-mogaming こと SeiyaMogami について書いています。転職のお誘いや副業の依頼などはひとまず![Twitter](https://twitter.com/_mogaming)に DM ください。
+mogaming こと SeiyaMogami について書いています。転職のお誘いや副業の依頼などはひとまず[Twitter](https://twitter.com/_mogaming)に DM ください。
 
 
 ## 基本情報
 
-| key         | value                                          |
-|-------------|------------------------------------------------|
-| Name        | 最上聖也(Seiya Mogami)                         |
-| Birthday    | 1992/02/17                                     |
-| Twitter     | ![@_mogaming](https://twitter.com/_mogaming)   |
-| Qiita       | ![@_mogaming](https://qiita.com/_mogaming)     |
-| SpeakerDeck | ![@mogaming](https://speakerdeck.com/mogaming) |
+| key         | value                                         |
+|-------------|-----------------------------------------------|
+| Name        | 最上聖也(Seiya Mogami)                        |
+| Birthday    | 1992/02/17                                    |
+| Twitter     | [@_mogaming](https://twitter.com/_mogaming)   |
+| Qiita       | [@_mogaming](https://qiita.com/_mogaming)     |
+| SpeakerDeck | [@mogaming](https://speakerdeck.com/mogaming) |
 
 ## スキルセット
 
@@ -47,7 +47,7 @@ mogaming こと SeiyaMogami について書いています。転職のお誘い�
 - Firebase
   - 個人開発でFirebaseをものすごく活用しているため、1人でサービスを作り切ることになれています
   - Authentication/Firestore/CloudFunctionsあたりはよく使うので、設計の相談等にも乗ることができます。
-  - 個人開発した![checka!](https://itunes.apple.com/jp/app//id1451433619)というアプリのバックエンドはFirebaseのみです。
+  - 個人開発した[checka!](https://itunes.apple.com/jp/app//id1451433619)というアプリのバックエンドはFirebaseのみです。
   - iOS x Firebaseのアプリケーション開発の依頼お待ちしております
 - AWSのServerless
   - 業務でServerlessなアプリケーションを作っていたため、結構経験があります。

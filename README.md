@@ -2,6 +2,10 @@
 
 mogaming こと SeiyaMogami について書いています。転職のお誘いや副業の依頼などはひとまず[Twitter](https://twitter.com/_mogaming)に DM ください。
 
+## 目次
+- [基本情報](https://github.com/mogaming217/resume#%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1)
+- [職務経歴/学歴](https://github.com/mogaming217/resume/tree/master/career)
+
 
 ## 基本情報
 
@@ -54,3 +58,11 @@ mogaming こと SeiyaMogami について書いています。転職のお誘い�
   - APIGateway/Labmda/DynamoDB/S3/Cognitoあたりは自信があります。
   - AWSを使うにあたってIAMは欠かせないので、そのあたりのスキルもあります。
   - Infra as Codeに挑戦していたので、CloudFormationを使ってサービスの環境を作ることもできます。
+
+### 志向
+- 0 -> 1 をつくるのがとても好きです
+- 大人数よりも少人数でガシガシ作っていくようなプロジェクトが好きです
+- 技術よりもサービス志向です
+  - ユーザーのことを考えて、サービスとしてどのような機能を提供すべきかが大事だと思っています
+  - 技術も好きですが、サービスあってこそだと思っています
+  - 技術的なチャレンジは、個人開発ではよくやっています

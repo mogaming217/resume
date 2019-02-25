@@ -1,11 +1,13 @@
 # Resume
 
 mogaming こと SeiyaMogami について書いています。転職のお誘いや副業の依頼などはひとまず[Twitter](https://twitter.com/_mogaming)に DM ください。
+なにか他に知りたいことがあれば追記しますのでお気軽にご連絡ください。
 
 ## 目次
 - [基本情報](https://github.com/mogaming217/resume#%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1)
+- [スキルセット](https://github.com/mogaming217/resume#%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BB%E3%83%83%E3%83%88)
 - [職務経歴/学歴](https://github.com/mogaming217/resume/tree/master/career)
-
+- [登壇経歴](https://github.com/mogaming217/resume/tree/master/presentation)
 
 ## 基本情報
 
@@ -66,3 +68,6 @@ mogaming こと SeiyaMogami について書いています。転職のお誘い�
   - ユーザーのことを考えて、サービスとしてどのような機能を提供すべきかが大事だと思っています
   - 技術も好きですが、サービスあってこそだと思っています
   - 技術的なチャレンジは、個人開発ではよくやっています
+- まだ未婚ですが、家族をとても大切にしたいタイプです
+  - 仕事はお金を稼ぐための手段だと思っています
+  - サービス開発は大好きな趣味みたいなところもあるので、好きなことを仕事にしてお金を稼いでいます

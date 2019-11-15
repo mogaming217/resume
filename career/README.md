@@ -2,9 +2,17 @@
 
 ## 職務経歴
 
-### Coming soon...
+### 株式会社実験
 
-情報公開まで少々お待ち下さい。新しく立ち上がった会社でエンジニアをやっております。
+期間: 2019/10/16 〜
+
+#### サービス概要
+
+- [TALK](https://talk.online/)
+
+#### 入社エントリ
+
+[株式会社実験に入社しました](https://note.mu/seiyamo/n/n24ca04900d52)
 
 ### DeNA - エブリスタのリニューアルプロジェクト
 
@@ -30,6 +38,10 @@
 - WebFront - Vue, Nuxt, Express, Node.js
 - GCP - GKE, PubSub, CloudSQL, Stackdriver Logging, GCS
 - AWS - SES, SNS, WorkMail, ElasticSearch
+
+#### 退職エントリ
+
+[DeNAを退職しました](https://note.mu/seiyamo/n/n71e2de7bf001)
 
 ### MTI - ルナルナ iOS アプリ開発
 

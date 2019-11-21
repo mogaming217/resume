@@ -71,7 +71,7 @@ mogaming こと SeiyaMogami について書いています。転職のお誘い�
 
 ## 詳細情報
 下記から御覧ください。
-- [スキルセット](https://github.com/mogaming217/resume#%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BB%E3%83%83%E3%83%88)
+
 - [職務経歴/学歴](https://github.com/mogaming217/resume/tree/master/career)
 - [個人開発](https://github.com/mogaming217/resume/tree/master/products)
 - [登壇経歴](https://github.com/mogaming217/resume/tree/master/presentation)

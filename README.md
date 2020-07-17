@@ -38,6 +38,8 @@ mogaming こと SeiyaMogami について書いています。転職のお誘い�
 - Ruby on Rails
   - GraphQLをRails上に立てているため、開発経験があります
   - ActiveRecordをよく使うので、何をやっちゃいけないか/どうしたほうがいいかなどを考えながら書くことができます
+- Flutter
+  - 個人開発アプリ [レピッタ](https://apps.apple.com/jp/app/id1494651925) で使ってみて感覚をつかみました
 - Android(Kotlin)
   - 業務でのAndroidアプリの開発経験があります
     - [エブリスタ](https://play.google.com/store/apps/details?id=jp.everystar.android.estarap1&hl=ja)のアプリです

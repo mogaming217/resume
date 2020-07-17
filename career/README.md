@@ -1,6 +1,7 @@
 # 経歴
 
 ## 目次
+- 株式会社マカセテ
 - [株式会社実験](https://github.com/mogaming217/resume/tree/master/career#%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%AE%9F%E9%A8%93)
   - TALK
   - SNSサービス
@@ -12,6 +13,12 @@
   - ルナルナ医師向けサービス
   - 栄養指導サービス
 
+## 株式会社マカセテ
+
+コーポレートサイトは[こちら](https://makasete.co.jp)。
+
+期間: 2020/02/10 〜
+
 ## 株式会社実験
 
 コーポレートサイトは[こちら](https://jikken.co.jp/)。
@@ -22,8 +29,21 @@
 
 [株式会社実験に入社しました](https://note.mu/seiyamo/n/n24ca04900d52)
 
-### 新規サービス
-また新たなサービスをFirebaseをフル活用して開発中です。リリースしたら追記します。
+### FOLLOW ME
+
+#### サービス概要
+
+[有料版Instagramアプリ FOLLOW ME](https://followme.app)
+
+#### 採用技術
+
+- iOS - Swift
+- Firebase - Firestore, CloudFunctions, Storage, Authentication, Messaging, RemoteConfig, Hosting
+- GCP - Cloud Pub/Sub, Cloud Run, StackDriver Logging, Error Reporting, BigQuery, Data Studio
+
+#### 詳細
+
+[こちらの登壇資料](https://speakerdeck.com/mogaming/build-the-sns-like-instagram-with-firebase) をご覧ください。
 
 ### TALK
 

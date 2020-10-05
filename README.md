@@ -9,7 +9,7 @@ mogaming こと SeiyaMogami について書いています。転職のお誘い�
 |-------------|-----------------------------------------------|
 | Name        | 最上聖也(Seiya Mogami)                         |
 | Birthday    | 1992/02/17                                    |
-| Residence   | 東京都目黒区                                    |
+| Residence   | 東京都                                         |
 | Twitter     | [@_mogaming](https://twitter.com/_mogaming)   |
 | Qiita       | [@_mogaming](https://qiita.com/_mogaming)     |
 | SpeakerDeck | [@mogaming](https://speakerdeck.com/mogaming) |

@@ -1,6 +1,6 @@
 # Resume
 
-mogaming こと SeiyaMogami について書いています。転職のお誘いや副業の依頼などはひとまず [Twitter](https://twitter.com/_mogaming) にDMください。
+moga こと SeiyaMogami について書いています。お仕事の依頼は [Twitter](https://twitter.com/_mogaming) にDMください。
 なにか他に知りたいことがあれば追記しますのでお気軽にご連絡ください。
 
 ## 基本情報
@@ -11,6 +11,7 @@ mogaming こと SeiyaMogami について書いています。転職のお誘い�
 | Birthday    | 1992/02/17                                    |
 | Residence   | 東京都                                         |
 | Twitter     | [@_mogaming](https://twitter.com/_mogaming)   |
+| Zenn       | [@moga](https://zenn.dev/moga)     |
 | Qiita       | [@_mogaming](https://qiita.com/_mogaming)     |
 | SpeakerDeck | [@mogaming](https://speakerdeck.com/mogaming) |
 
@@ -18,6 +19,13 @@ mogaming こと SeiyaMogami について書いています。転職のお誘い�
 
 ### 言語/フレームワーク
 
+- Flutter(Dart)
+  - 個人/業務でアプリの開発をしています
+  - iOSアプリ開発の知識を活かしてハマりやすいビルド周りの設定やCI/CD環境の構築もできます
+  - riverpodを活用した状態管理を行うことができます
+  - 新規アプリをFlutterで開発する際のアドバイザー経験があります
+  - バックエンドも込みで課金の実装経験があります
+    - [Zennで本も書きました](https://zenn.dev/moga/books/flutter_revenuecat)
 - iOS(Swift)
   - 個人/業務でiOSアプリの開発をしています。0から作ることが多く、すばやく作ることに長けています
   - 一般的なアプリならだいたい作れます
@@ -28,6 +36,11 @@ mogaming こと SeiyaMogami について書いています。転職のお誘い�
 - TypeScript
   - Expressを使ってWebサービスの開発や、BFFの開発経験があります
   - 日頃から業務でFirebaseのCloudFunctionsをTypeScriptで実装しています
+  - React/Next.jsもTypeScriptで書いています（というよりJavaScriptを書かないようにしています）
+- React/Next.js
+  - Webサービスの開発が必要な場合はこれを使っています
+  - 3サービスほどプロダクションで運用しています
+  - Cloud RunやFirebase Hostingと組み合わせて使うことが多いです
 - Vue/Nuxt
   - 必要に迫られて覚えました
   - アニメーション等をゴリゴリに使うようなサービスは難しいですが、一般的なWebサービスであれば詰まることはほとんどなく開発できます
@@ -38,8 +51,6 @@ mogaming こと SeiyaMogami について書いています。転職のお誘い�
 - Ruby on Rails
   - GraphQLをRails上に立てているため、開発経験があります
   - ActiveRecordをよく使うので、何をやっちゃいけないか/どうしたほうがいいかなどを考えながら書くことができます
-- Flutter
-  - 個人開発アプリ [レピッタ](https://apps.apple.com/jp/app/id1494651925) で使ってみて感覚をつかみました
 - Android(Kotlin)
   - 業務でのAndroidアプリの開発経験があります
     - [エブリスタ](https://play.google.com/store/apps/details?id=jp.everystar.android.estarap1&hl=ja)のアプリです
@@ -48,15 +59,23 @@ mogaming こと SeiyaMogami について書いています。転職のお誘い�
 
 ### サービス
 
-- Firebase
+- Firebase/GCP
   - 業務でFirebaseをフル活用したサービス開発・運用の経験があります
   - 個人開発でもFirebaseをものすごく活用しています
-  - 設計の支援なども行ったりしています
-- AWSのServerless
+  - Firebase技術顧問の経験があります
+- Stripe
+  - 業務でStripeを活用したサービスの開発・運用経験があります
+    - FOLLOW MEというサービスで使っていました
+  - Stripeを活用したサービスの顧問業の経験があります
+- Algolia
+  - 全文検索が必要になった場合に活用します
+  - 業務での開発・運用経験があります
+
+<!-- - AWSのServerless
   - 業務でServerlessなアプリケーションを作っていました
   - APIGateway/Labmda/DynamoDB/S3/Cognitoあたりは自信があります
   - AWSを使うにあたってIAMは欠かせないので、そのあたりのスキルもあります
-  - Infra as Codeに挑戦していたので、CloudFormationを使ってサービスの環境を作ることもできます
+  - Infra as Codeに挑戦していたので、CloudFormationを使ってサービスの環境を作ることもできます -->
 
 ### 志向
 - 0 -> 1 をつくるのがとても好きです
